@@ -5,7 +5,7 @@ A simple, modern, and fully responsive Weather Application built using HTML, CSS
 ---
 
 # 🚀 Demo
-[Live Site]()
+[Live Site](https://chandrueswaran.github.io/WeatherApp/)
 
 ---
 
